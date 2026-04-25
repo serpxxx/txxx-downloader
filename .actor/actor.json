@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "txxx-downloader",
   "readme": "../ACTOR.md",
-  "title": "Txxx Downloader",
+  "title": "TXXX Downloader Browser Extension",
   "version": "0.0"
 }
