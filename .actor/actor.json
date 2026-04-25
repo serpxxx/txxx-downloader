@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Txxx Downloader gives creators and teams a dependable way to save TXXX videos for\noffline access. Instead of juggling manual captures or risky browser extensions,\nit pulls publicly accessible files directly from TXXX with consistent quality.\n\nUse it to archive research material, prep client deliverables, or keep your personal\nlibrary available when you're traveling or working with limited connectivity.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "txxx-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Txxx Downloader",
+  "version": "0.0"
+}
