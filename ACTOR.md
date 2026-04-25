@@ -1,4 +1,4 @@
-# TXXX Downloader
+# TXXX Downloader Browser Extension
 
 > Download TXXX videos as MP4 files directly from supported watch pages.
 
