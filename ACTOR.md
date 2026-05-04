@@ -1,8 +1,12 @@
-# TXXX Downloader
+# TXXX Video Downloader | How to Download TXXX Videos
 
 > Download TXXX videos as MP4 files directly from supported watch pages.
 
-![Txxx Downloader](https://raw.githubusercontent.com/serpxxx/txxx-downloader/main/assets/workflow-preview.webp)
+## Get it Here
+
+Get it here: https://serp.ly/txxx-downloader
+
+![TXXX Downloader](https://raw.githubusercontent.com/serpxxx/txxx-downloader/main/assets/workflow-preview.webp)
 
 TXXX Downloader is a browser extension built for users who want a straightforward way to save TXXX videos for offline viewing. It detects supported video streams from the active page, lets you choose from the qualities exposed by the player, and exports the final video as MP4 without requiring command-line tools or separate desktop software.
 
@@ -11,11 +15,6 @@ TXXX Downloader is a browser extension built for users who want a straightforwar
 - Choose from available video qualities
 - Export MP4 files for easier playback and archiving
 - Avoid manual stream inspection and generic downloader failures
-
-## Get it Here
-
-Get it here: https://serp.ly/txxx-downloader
-
 ## Table of Contents
 
 - [Why TXXX Downloader](#why-txxx-downloader)
